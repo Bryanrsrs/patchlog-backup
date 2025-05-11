@@ -1,5 +1,5 @@
 {
-  "content": "",
-  "version": "1.0.0",
-  "lastUpdated": "2025-05-11T02:44:00Z"
+  "content": "<div class=\"border-l-4 border-red-500 bg-red-100 p-4 text-red-700\"><span class=\"font-bold\">Alert:</span> 'Unit Other Properties' option in settings is used only for testing purposes I do not recommend you use it</div>\n<div class=\"border rounded-lg p-4 bg-gray-50 shadow-sm\"><span class=\"font-semibold text-blue-600\">New Feature:</span> Added projectile support.</div>\n<div class=\"border rounded-lg p-4 bg-gray-50 shadow-sm\"><span class=\"font-semibold text-blue-600\">New Feature:</span> Added BETA script support.</div>",
+  "version": "1.2.2",
+  "lastUpdated": "2025-05-11T06:04:41.104Z"
 }
