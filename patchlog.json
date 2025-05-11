@@ -1,5 +1,5 @@
 {
   "content": "<div class=\"\\&quot;border-l-4\"><span class=\"\\&quot;font-bold\\&quot;\">Alert:</span> Incase you convert your game and your character spawns stuck into the void make sure the Server Physics Engine is set to Rapier 3D (in Editor&gt;Configuration&gt;Engine)</div>\n<div class=\"\\&quot;border-l-4\"><span class=\"\\&quot;font-bold\\&quot;\">Alert:</span> 'Unit Other Properties' option in settings is used only for testing purposes I do not recommend you use it</div>\n<div class=\"\\&quot;border\"><span class=\"\\&quot;font-semibold\">New Feature:</span> Added projectile support.</div>\n<div class=\"\\&quot;border\"><span class=\"\\&quot;font-semibold\">New Feature:</span> Added BETA script support.</div>",
-  "version": "1.2.5",
+  "version": "1.2.9",
   "lastUpdated": "2025-05-11T06:34:05.489Z"
 }
